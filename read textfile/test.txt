@@ -1,0 +1,58 @@
+WeThinkCode is a free programming and coding course which aims to address the scarcity of developers in South Africa.
+
+The organisation has partnered with corporate sponsors to provide financial support for students and allow them to study for free.
+
+WeThinkCode recently expanded its campus in central Johannesburg, and is set to open a campus in Cape Town this year, and invited MyBroadband over to learn more about what it does.
+
+Applying and boot camp
+Anyone in South Africa between 17 and 35 can apply for the WeThinkCode programme, with no prior education requirements.
+
+Users can apply through the WeThinkCode website, where they are required to complete a series of aptitude tests.
+
+The tests are designed to be accessible, while remaining challenging.
+
+If applicants pass the test, they are invited to participate in a WeThinkCode boot camp. This is an intense four-week course which tests the motivation of the applicants and their ability to work.
+
+Prospective students are given a new project each day of the boot camp and are expected to work throughout the month.
+
+Following the boot camp, WeThinkCode selects a number of students to participate in the full programme.
+
+The WeThinkCode course is a two-year full-time programme and students are typically on campus for 8-10 hours per day.
+
+Students are required to learn a number of different programming languages during the course, and begin learning to code in C from the beginning.
+
+They are given regular projects and deadlines, some of which must be completed using specific tools and languages, and some of which are more open-ended.
+
+WeThinkCode has also opened accommodation for students, which is within walking distance from the Johannesburg campus. The organisation said it has plans to create accommodation for its upcoming Cape Town campus, too.
+
+WeThinkCode said there are currently just over 300 students at the campus in Johannesburg.
+
+
+
+Internships
+To help WeThinkCode students gain work experience, they are placed in internships with partner companies for the duration of the course.
+
+For every year they study at WeThinkCode, students will spend eight months at the campus and four months at an internship with a company.
+
+WeThinkCode said it puts a lot of effort into matching students with the right companies for internships, and if a student is interested in a certain type of development, the organisation will try to match that student with a relevant position.
+
+If students do not fit in with their internship, they can elect to move to a company more relevant to their interests.
+
+Partnering with companies further allows WeThinkCode to provide students with a monthly stipend during the course.
+
+The students
+With all the benefits the WeThinkCode programme offers, it is no surprise that the students praised the organisation when speaking to MyBroadband.
+
+Their response was overwhelmingly positive, with many proud of how the course allows a diverse range of people to access it.
+
+Several students currently studying at WeThinkCode never obtained a matric certificate, while others have computer science degrees from universities.
+
+Another perk of the programme is that students are allowed to start their own initiatives – and numerous groups like the Robotics Club and Audio-Visual Club have been formed.
+
+The Robotics Club has a dedicated lab where students work on hardware projects with 3D printers, remote-controlled automatons, and automated systems.
+
+Due to the peer-to-peer learning environment of the course, students are heavily involved in campus projects and share a common sentiment that they are contributing towards the programme.
+
+The number of students at WeThinkCode is expected to grow to around 600 following the launch of the new Cape Town campus, with 400 students in Johannesburg and 200 in Cape Town.
+
+This article first appeared on MyBroadband and is republished with permission.
